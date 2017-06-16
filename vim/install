@@ -2,3 +2,5 @@
 
 cp -r colors ~/.vim/
 cp .vimrc ~/
+
+chmod 777 ~/.viminfo
